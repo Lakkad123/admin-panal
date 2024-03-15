@@ -1,0 +1,1 @@
+export const Baseurl = "http://3.7.145.66/teach-lancer"
